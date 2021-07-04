@@ -1,4 +1,4 @@
-package solutions;
+package solutions.Conditioner;
 
 import java.io.BufferedReader;
 import java.io.IOException;
