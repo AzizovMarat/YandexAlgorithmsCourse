@@ -1,10 +1,10 @@
-package solutions.Conditioner;
+package Conditioner;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class conditioner {
+public class Conditioner {
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         String[] nums = reader.readLine().split(" ");
