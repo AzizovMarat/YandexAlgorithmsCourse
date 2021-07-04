@@ -1,4 +1,4 @@
-<h1 class="title">F. Расстановка ноутбуков</h1>
+<h1 class="title">Расстановка ноутбуков</h1>
 
 <table class="test-description" border="1" style="border-collapse:collapse;" cellpadding="5">
 	<tbody>

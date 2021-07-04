@@ -1,4 +1,4 @@
-<h1 class="title">I. Узник замка Иф</h1>
+<h1 class="title">Узник замка Иф</h1>
 
 <table class="test-description" border="1" style="border-collapse:collapse;" cellpadding="5">
 	<tbody>

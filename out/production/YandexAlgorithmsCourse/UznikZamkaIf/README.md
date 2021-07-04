@@ -1,4 +1,4 @@
-<h1 class="title">Треугольник</h1>
+<h1 class="title">I. Узник замка Иф</h1>
 
 <table class="test-description" border="1" style="border-collapse:collapse;" cellpadding="5">
 	<tbody>
@@ -19,14 +19,13 @@
 		</tr>
 	</tbody>
 </table>
-<p>Даны три натуральных числа. Возможно ли построить треугольник с такими сторонами. Если это возможно, выведите строку YES, иначе выведите строку NO.
-<br>Треугольник — это три точки, не лежащие на одной прямой.</p>
+<p>За многие годы заточения узник замка Иф проделал в стене прямоугольное отверстие размером D × E. Замок Иф сложен из кирпичей, размером A × B × C. Определите, сможет ли узник выбрасывать кирпичи в море через это отверстие, если стороны кирпича должны быть параллельны сторонам отверстия.</p>
 
 <h2>Формат ввода</h2>
-<p>Вводятся три натуральных числа.</p>
+<p>Программа получает на вход числа A, B, C, D, E.</p>
 
 <h2>Формат вывода</h2>
-<p>Выведите ответ на задачу.</p>
+<p>Программа должна вывести слово YES или NO.</p>
 
 <h3>Пример 1</h3>
 <table class="in-out" border="1" style="border-collapse:collapse;" cellpadding="5">
@@ -38,7 +37,11 @@
       </thead>
 	<tbody>
 		<tr>
-			<td>3<br>4<br>5</td>
+			<td>1
+                <br>1
+                <br>1
+                <br>1
+                <br>1</td>
 			<td>YES</td>
 		</tr>
 	</tbody>
@@ -53,23 +56,12 @@
       </thead>
 	<tbody>
 		<tr>
-			<td>3<br>5<br>4</td>
-			<td>YES</td>
-		</tr>
-	</tbody>
-</table>
-<h3>Пример 3</h3>
-<table class="in-out" border="1" style="border-collapse:collapse;" cellpadding="5">
-      <thead>
-         <tr>
-            <th>Ввод</th>
-            <th>Вывод</th>
-         </tr>
-      </thead>
-	<tbody>
-		<tr>
-			<td>4<br>5<br>3</td>
-			<td>YES</td>
+			<td>2
+                <br>2
+                <br>2
+                <br>1
+                <br>1</td>
+			<td>NO</td>
 		</tr>
 	</tbody>
 </table>

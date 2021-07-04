@@ -1,4 +1,4 @@
-<h1 class="title">G. Детали</h1>
+<h1 class="title">Детали</h1>
 
 <table class="test-description" border="1" style="border-collapse:collapse;" cellpadding="5">
 	<tbody>
