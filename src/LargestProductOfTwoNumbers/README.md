@@ -1,5 +1,4 @@
-<h1 class="title">Наибольшее произведение двух чисел
-</h1>
+<h1 class="title">Наибольшее произведение двух чисел</h1>
 
 <table class="test-description" border="1" style="border-collapse:collapse;" cellpadding="5">
 	<tbody>
