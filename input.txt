@@ -1,10 +1,4 @@
-3
-3
-Russian
-English
-Japanese
 2
-Russian
-English
-1
-English
+Ololo Ololo
+Numbers 1234567890
+Numbers
